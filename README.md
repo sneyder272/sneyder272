@@ -41,4 +41,4 @@ Estudiante y desarrollador especializado en Inteligencia Artificial enfocado en 
 - 🎓 **SENA:** Procesamiento de Datos para Modelos de Inteligencia Artificial (Gobernanza de Datos, ML, Estadística).
 - 🥇 **Distinción "Día de los Mejores 2025"** por desempeño destacado en formación técnica IA.
 - 🎤 Expositor de proyectos de Inteligencia Artificial en el Centro de Innovación **YAWA**.
--
+
