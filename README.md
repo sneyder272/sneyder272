@@ -52,4 +52,4 @@ Desarrollador especializado en Inteligencia Artificial y Ciencia de Datos con ex
 - 🥇 **Distinción "Día de los Mejores 2025" (SENA):** Reconocimiento por desempeño destacado en formación técnica de IA.
 - 🚀 **Hackatones:** Participación activa en hackatones universitarias, desarrollando soluciones de código funcionales en entornos competitivos de alta velocidad.
 - 🎤 **Expositor Tecnológico:** Ponente en el Centro de Innovación **YAWA**, presentando proyectos reales de Inteligencia Artificial y analítica de datos.
--
+
