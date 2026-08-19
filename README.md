@@ -1,5 +1,5 @@
 # ¡Hola! Soy Alan Caicedo Díaz 👋
-### Machine Learning Engineer & Data Scientist (Junior-Mid) | Python & Cloud Developer
+### Machine Learning Engineer & Data Scientist | Python & Cloud Developer
 
 Desarrollador especializado en Inteligencia Artificial y Ciencia de Datos con experiencia práctica construyendo sistemas funcionales en entornos reales y corporativos. Fuerte en la creación de pipelines de datos (ETL), optimización de modelos de Deep Learning y despliegue de soluciones en la nube (AWS).
 
